@@ -252,3 +252,5 @@ dist
 .firebase/
 
 # End of https://www.toptal.com/developers/gitignore/api/firebase
+
+vetur.config.js
